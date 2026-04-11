@@ -18,7 +18,9 @@ Synthetic data was imported in tabular form, open in ms excel for viewing and cl
 The dashboard shows the summary of descriptive analysis of the lab samples for checking d-dimer test result.
 - influx of samples every month from January 2024 - December 2025 : Total Sample size = 12264
 - Gender distribution: Female =  5640 (45%) ; Male = 6501 (53%) ; Other = 123 (0.01%)
-- 
+- Age frequency of the sample population is showing a normal distribution of age. With mean age of 51 years old, minimum age of 9 years old and maximum age of 97 years old. (The figure below shows a table of descriptive analysis using pivot table).
+  <img width="688" height="340" alt="Screenshot 2026-04-11 001902" src="https://github.com/user-attachments/assets/fa78f66c-c66c-4a88-83ee-87d1be6d7e16" />
+
 <img width="1289" height="727" alt="Screenshot 2026-04-10 164652" src="https://github.com/user-attachments/assets/d3d342dc-eede-4790-8025-584aa4daaefd" />
 
 
