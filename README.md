@@ -4,7 +4,7 @@
 ## Project Overview
 D-dimer is a protein fragment, a byproduct of plasmin degradation. D-dimer test is a very common primary test to detect the fragment of blood clot, including its nature of having a high sensitivity and low specificity, resulting to a high negative predictive value (NPV) [Bounds and Kok, 2023](https://www.ncbi.nlm.nih.gov/books/NBK431064/#), making it a very helpful test for ruling out more serious diagnoses such as Pulmonary Embolism (PE) or Deep Vein Thrombosis (DVT).
 
-The aim and objective of this project is to investigate and perform a descriptive and diagnostic data analysis on the synthetic dataset from 2024-2025 and to answer real-world clinical questions. To execute this, basic to advanced applications of MS Excel, MySQL (query programming language), and Power BI (for data visualisation) as one ecosystem will be used.
+The aim and objective of this project is to investigate and perform a descriptive data analysis on the synthetic dataset from 2024-2025 and to answer real-world clinical questions. To execute this, basic to advanced applications of MS Excel, MySQL (query programming language), and Power BI (for data visualisation) as one ecosystem will be used.
 
 Click link for full written report paper: [Link](https://1drv.ms/w/c/cf57a7fa3a3da56f/IQBqkGWvN5ufQbwwczhcdvKEARNQHe6WsQFFfDzZzFaXA6w?e=Rg2cBI)
 
