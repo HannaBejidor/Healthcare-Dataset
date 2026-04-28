@@ -30,7 +30,14 @@ The dashboard shows the summary of descriptive analysis of the lab samples for c
 The figure below shows a table of descriptive analysis using pivot tables.
 <img width="688" height="340" alt="Screenshot 2026-04-11 001902" src="https://github.com/user-attachments/assets/d58c6f83-20a5-48c2-bf6b-cf19d6498e57" />
 
+## Limitation
+- The data comes from one source (hospital), collected from January 2024 - December 2025. Therefore we can conclude that: the sample population does not represent the whole medical population which may result to bias outcomes.
+- Suggestion to overcome this limitation: Dataset should be sourced from multiple laboratories, ranging from 5-10 years of data collection. Include more patients demographic information, such as ethnicity, major medical history and more structured clinical comments, for e.g. usage of IC10 codes.
+
 ## Conclusion
+- D-dimer is a great primary test for detecting presence of blood clot, correlating of high d-dimer as age increases was detected but not causation. D-dimer is also a relatively very cheap test compared to imaging, therefore would be a very beneficial test if it can be used as an independent test for more serious diagnosis.
+- However, d-dimer result can be affected from other cause such as patient with cancer, pregnant and etc.
+- D-dimer has a high negative predictive value, making it a great test for ruling out negative test results for more serious diagnoses like DVT or PE but not strong enough to be an independent indicator for confirming this diagnosis.
 
 
 
