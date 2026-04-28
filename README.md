@@ -24,7 +24,7 @@ Figure below shows a summary descriptive analysis using Power BI.
 ## Executive summary
 The dashboard shows the summary of descriptive analysis of the lab samples for checking d-dimer test results.
 - Influx of samples every month from January 2024 - December 2025 : Total Sample size = 12264
-- Gender distribution: Female = 5640 (45%) ; Male = 6501 (53%) ; Other = 123 (0.01%)
+- Gender distribution: Female = 46% (5640): Male = 53% (6501)  ; Other = 1% 123
 - Age frequency of the sample population is showing a normal distribution of age. With mean age of 51 years old, minimum age of 9 years old and maximum age of 97 years old.
 
 The figure below shows a table of descriptive analysis using pivot tables.
