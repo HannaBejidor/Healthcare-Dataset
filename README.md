@@ -19,7 +19,7 @@ This D-dimer dataset is a synthetic data I created based on real-world data avai
 Based on the given data, descriptive analysis was performed to analyse patients influx to investigate sample flow per month/quarterly/yearly. And analyse patients demographics and its relation with d-dimer numeric results, such as gender distribution, age frequency and average d-dimer based on patients age.
 Figure below shows a summary descriptive analysis using Power BI.
 
-<img width="1289" height="727" alt="Screenshot 2026-04-10 164652" src="https://github.com/user-attachments/assets/d3d342dc-eede-4790-8025-584aa4daaefd" />
+<img width="1281" height="722" alt="Screenshot 2026-05-12 024055" src="https://github.com/user-attachments/assets/6cb86e4f-38d0-472c-a26d-093259619ea7" />
 
 ## Executive summary
 The dashboard shows the summary of descriptive analysis of the lab samples for checking d-dimer test results.
